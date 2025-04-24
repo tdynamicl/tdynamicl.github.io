@@ -4,8 +4,8 @@
 
 # Site
 title: 星曳
-subtitle: ''
-description: ''
+subtitle: '星曳余光横碧霄'
+description: '一个不知名小站'
 keywords:
 author: tdynamicl
 language: zh-CN
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

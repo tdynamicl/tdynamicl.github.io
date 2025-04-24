@@ -1,7 +1,8 @@
 ---
 title: 解决重启后harbor启动失败的问题
 date: 2025-04-24 18:43:39
-tags:
+tags: [ 'harbor' ]
+categories: [ 'devops' ]
 ---
 
 创建`/etc/systemd/system/harbor.service`，内容如下：

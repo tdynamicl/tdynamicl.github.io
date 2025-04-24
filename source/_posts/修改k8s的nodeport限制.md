@@ -1,7 +1,8 @@
 ---
 title: 修改k8s的nodeport限制
 date: 2025-04-24 18:51:16
-tags:
+tags: [ 'k8s' ]
+categories: [ 'devops' ]
 ---
 
 ![](/images/4164cff8-9750-4f4d-bf9b-3c430756a554.png)
