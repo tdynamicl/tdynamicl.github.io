@@ -5,7 +5,7 @@ tags: [ 'k8s' ]
 categories: [ 'devops' ]
 ---
 
-![](/images/4164cff8-9750-4f4d-bf9b-3c430756a554.png)
+![](/images/k8s/4164cff8-9750-4f4d-bf9b-3c430756a554.png)
 
 在k8s的master节点上编辑：`/etc/kubernetes/manifests/kube-apiserver.yaml`
 
